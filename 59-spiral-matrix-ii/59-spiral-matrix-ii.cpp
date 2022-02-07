@@ -4,6 +4,7 @@ public:
         vector<vector<int>> v(n, vector<int>(n, 0));
         int k=1;
         int sr=0, sc=0, er=n-1, ec=n-1;
+        // start row, start column, end row, end column
         
         while(sr<=er and sc<=ec){
             for(int i=sc; i<=ec; i++){
