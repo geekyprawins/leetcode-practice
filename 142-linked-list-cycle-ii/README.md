@@ -7,24 +7,24 @@
 <p>&nbsp;</p>
 <p><strong>Example 1:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist.png" style="height: 145px; width: 450px;">
-<pre><strong>Input:</strong> head = [3,2,0,-4], pos = 1
+<pre style="position: relative;"><strong>Input:</strong> head = [3,2,0,-4], pos = 1
 <strong>Output:</strong> tail connects to node index 1
 <strong>Explanation:</strong> There is a cycle in the linked list, where tail connects to the second node.
-</pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p><strong>Example 2:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist_test2.png" style="height: 105px; width: 201px;">
-<pre><strong>Input:</strong> head = [1,2], pos = 0
+<pre style="position: relative;"><strong>Input:</strong> head = [1,2], pos = 0
 <strong>Output:</strong> tail connects to node index 0
 <strong>Explanation:</strong> There is a cycle in the linked list, where tail connects to the first node.
-</pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p><strong>Example 3:</strong></p>
 <img alt="" src="https://assets.leetcode.com/uploads/2018/12/07/circularlinkedlist_test3.png" style="height: 65px; width: 65px;">
-<pre><strong>Input:</strong> head = [1], pos = -1
+<pre style="position: relative;"><strong>Input:</strong> head = [1], pos = -1
 <strong>Output:</strong> no cycle
 <strong>Explanation:</strong> There is no cycle in the linked list.
-</pre>
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
