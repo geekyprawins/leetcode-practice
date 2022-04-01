@@ -44,7 +44,7 @@ long long int calculate(int a[], int n)
     for(auto it : mp){
         int freq = it.second;
         if( freq > 1)
-         res += freq * (freq-1) / 2;
+         res += freq * (freq-1) / 2; // nC2 to find pairs
         
     }
     return res;
