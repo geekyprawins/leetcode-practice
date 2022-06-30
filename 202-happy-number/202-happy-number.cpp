@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool isHappy(int n) {
-unordered_map<int,int> tmp;
+        unordered_map<int,int> tmp;
         
         while(n != 1)
         {
