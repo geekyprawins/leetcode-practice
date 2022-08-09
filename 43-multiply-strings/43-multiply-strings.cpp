@@ -1,20 +1,29 @@
 class Solution {
 public:
     string multiply(string num1, string num2) {
-        if(num1=="0"||num2=="0"){return "0";}
-        int n = num1.length(),m = num2.length();
-        string ans(n+m,'0');
-
-        for(int i=n-1;i>=0;i--){
-            for(int j=m-1;j>=0;j--){
-                int num = (num1[i] - '0') * (num2[j] - '0') + ans[i+j+1] - '0';
-                ans[i+j+1] = num%10 + '0';
-                ans[i+j] += num/10;
+        // handle edge-case where the product is 0
+        if (num1 == "0" || num2 == "0") return "0";
+        
+        // num1.size() + num2.size() == max no. of digits
+        vector<int> num(num1.size() + num2.size(), 0);
+        
+        // build the number by multiplying one digit at the time
+        for (int i = num1.size() - 1; i >= 0; --i) {
+            for (int j = num2.size() - 1; j >= 0; --j) {
+                num[i + j + 1] += (num1[i] - '0') * (num2[j] - '0');
+                num[i + j] += num[i + j + 1] / 10;
+                num[i + j + 1] %= 10;
             }
         }
-        for(int i=0;i<ans.length();i++){
-            if(ans[i] != '0'){ return ans.substr(i);}
-        } 
-        return "0";
+        
+        // skip leading 0's
+        int i = 0;
+        while (i < num.size() && num[i] == 0) ++i;
+        
+        // transofrm the vector to a string
+        string res = "";
+        while (i < num.size()) res.push_back(num[i++] + '0');
+        
+        return res;
     }
 };
