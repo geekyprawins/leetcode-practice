@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/geekyprawins/leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/geekyprawins/leetcode-practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/geekyprawins/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/geekyprawins/leetcode-practice/tree/master/0042-trapping-rain-water) |
@@ -85,10 +86,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/geekyprawins/leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/geekyprawins/leetcode-practice/tree/master/0020-valid-parentheses) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/geekyprawins/leetcode-practice/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/geekyprawins/leetcode-practice/tree/master/0460-lfu-cache) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/geekyprawins/leetcode-practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
