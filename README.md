@@ -111,20 +111,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/geekyprawins/leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/geekyprawins/leetcode-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/geekyprawins/leetcode-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0662-maximum-width-of-binary-tree](https://github.com/geekyprawins/leetcode-practice/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/geekyprawins/leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/geekyprawins/leetcode-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/geekyprawins/leetcode-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0662-maximum-width-of-binary-tree](https://github.com/geekyprawins/leetcode-practice/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/geekyprawins/leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/geekyprawins/leetcode-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/geekyprawins/leetcode-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0662-maximum-width-of-binary-tree](https://github.com/geekyprawins/leetcode-practice/tree/master/0662-maximum-width-of-binary-tree) |
 ## Greedy
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/geekyprawins/leetcode-practice/tree/master/0455-assign-cookies) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/geekyprawins/leetcode-practice/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
