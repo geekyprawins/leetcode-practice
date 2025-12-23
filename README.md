@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/geekyprawins/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/geekyprawins/leetcode-practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/geekyprawins/leetcode-practice/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/geekyprawins/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/geekyprawins/leetcode-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/geekyprawins/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/geekyprawins/leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0540-single-element-in-a-sorted-array](https://github.com/geekyprawins/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/geekyprawins/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/geekyprawins/leetcode-practice/tree/master/0700-search-in-a-binary-search-tree) |
 ## Iterator
