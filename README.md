@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/geekyprawins/leetcode-practice/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/geekyprawins/leetcode-practice/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/geekyprawins/leetcode-practice/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/geekyprawins/leetcode-practice/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/geekyprawins/leetcode-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/geekyprawins/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
