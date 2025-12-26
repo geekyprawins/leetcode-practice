@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/geekyprawins/leetcode-practice/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/geekyprawins/leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/geekyprawins/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/geekyprawins/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0460-lfu-cache](https://github.com/geekyprawins/leetcode-practice/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/geekyprawins/leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/geekyprawins/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/geekyprawins/leetcode-practice/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/geekyprawins/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/geekyprawins/leetcode-practice/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/geekyprawins/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/geekyprawins/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/geekyprawins/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/geekyprawins/leetcode-practice/tree/master/0242-valid-anagram) |
 ## Doubly-Linked List
 |  |
 | ------- |
