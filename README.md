@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/geekyprawins/leetcode-practice/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/geekyprawins/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/geekyprawins/leetcode-practice/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/geekyprawins/leetcode-practice/tree/master/0051-n-queens) |
 | [0455-assign-cookies](https://github.com/geekyprawins/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/geekyprawins/leetcode-practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/geekyprawins/leetcode-practice/tree/master/0496-next-greater-element-i) |
@@ -218,5 +219,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/geekyprawins/leetcode-practice/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/geekyprawins/leetcode-practice/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/geekyprawins/leetcode-practice/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/geekyprawins/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
