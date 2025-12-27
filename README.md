@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/geekyprawins/leetcode-practice/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/geekyprawins/leetcode-practice/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/geekyprawins/leetcode-practice/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/geekyprawins/leetcode-practice/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/geekyprawins/leetcode-practice/tree/master/0060-permutation-sequence) |
 | [0234-palindrome-linked-list](https://github.com/geekyprawins/leetcode-practice/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
