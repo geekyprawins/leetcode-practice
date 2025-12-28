@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/geekyprawins/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0460-lfu-cache](https://github.com/geekyprawins/leetcode-practice/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/geekyprawins/leetcode-practice/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/geekyprawins/leetcode-practice/tree/master/0525-contiguous-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/geekyprawins/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Two Pointers
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/geekyprawins/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/geekyprawins/leetcode-practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/geekyprawins/leetcode-practice/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/geekyprawins/leetcode-practice/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/geekyprawins/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sorting
 |  |
@@ -229,4 +231,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/geekyprawins/leetcode-practice/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/geekyprawins/leetcode-practice/tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
