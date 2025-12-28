@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/geekyprawins/leetcode-practice/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/geekyprawins/leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/geekyprawins/leetcode-practice/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/geekyprawins/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/geekyprawins/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Two Pointers
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/geekyprawins/leetcode-practice/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/geekyprawins/leetcode-practice/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/geekyprawins/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/geekyprawins/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -232,4 +234,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/geekyprawins/leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/geekyprawins/leetcode-practice/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/geekyprawins/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
