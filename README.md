@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/geekyprawins/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/geekyprawins/leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/geekyprawins/leetcode-practice/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/geekyprawins/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/geekyprawins/leetcode-practice/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/geekyprawins/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/geekyprawins/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/geekyprawins/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/geekyprawins/leetcode-practice/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/geekyprawins/leetcode-practice/tree/master/0051-n-queens) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/geekyprawins/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0303-range-sum-query-immutable](https://github.com/geekyprawins/leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/geekyprawins/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/geekyprawins/leetcode-practice/tree/master/0485-max-consecutive-ones) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/geekyprawins/leetcode-practice/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/geekyprawins/leetcode-practice/tree/master/0098-validate-binary-search-tree) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/geekyprawins/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0173-binary-search-tree-iterator](https://github.com/geekyprawins/leetcode-practice/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/geekyprawins/leetcode-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/geekyprawins/leetcode-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
