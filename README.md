@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/geekyprawins/leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/geekyprawins/leetcode-practice/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/geekyprawins/leetcode-practice/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/geekyprawins/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/geekyprawins/leetcode-practice/tree/master/0202-happy-number) |
 ## Recursion
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/geekyprawins/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/geekyprawins/leetcode-practice/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/geekyprawins/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/geekyprawins/leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/geekyprawins/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 ## Monotonic Stack
@@ -293,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/geekyprawins/leetcode-practice/tree/master/0207-course-schedule) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/geekyprawins/leetcode-practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
