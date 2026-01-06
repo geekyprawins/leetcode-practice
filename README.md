@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/geekyprawins/leetcode-practice/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/geekyprawins/leetcode-practice/tree/master/0051-n-queens) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/geekyprawins/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/geekyprawins/leetcode-practice/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/geekyprawins/leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0303-range-sum-query-immutable](https://github.com/geekyprawins/leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/geekyprawins/leetcode-practice/tree/master/0455-assign-cookies) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/geekyprawins/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/geekyprawins/leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/geekyprawins/leetcode-practice/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/geekyprawins/leetcode-practice/tree/master/0198-house-robber) |
 ## Monotonic Stack
 |  |
 | ------- |
