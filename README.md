@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/geekyprawins/leetcode-practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/geekyprawins/leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/geekyprawins/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0981-time-based-key-value-store](https://github.com/geekyprawins/leetcode-practice/tree/master/0981-time-based-key-value-store) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/geekyprawins/leetcode-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/geekyprawins/leetcode-practice/tree/master/0303-range-sum-query-immutable) |
 | [0460-lfu-cache](https://github.com/geekyprawins/leetcode-practice/tree/master/0460-lfu-cache) |
+| [0981-time-based-key-value-store](https://github.com/geekyprawins/leetcode-practice/tree/master/0981-time-based-key-value-store) |
 ## Queue
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/geekyprawins/leetcode-practice/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/geekyprawins/leetcode-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/geekyprawins/leetcode-practice/tree/master/0242-valid-anagram) |
+| [0981-time-based-key-value-store](https://github.com/geekyprawins/leetcode-practice/tree/master/0981-time-based-key-value-store) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/geekyprawins/leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/geekyprawins/leetcode-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/geekyprawins/leetcode-practice/tree/master/0700-search-in-a-binary-search-tree) |
+| [0981-time-based-key-value-store](https://github.com/geekyprawins/leetcode-practice/tree/master/0981-time-based-key-value-store) |
 ## Iterator
 |  |
 | ------- |
