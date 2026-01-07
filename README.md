@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/geekyprawins/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/geekyprawins/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/geekyprawins/leetcode-practice/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/geekyprawins/leetcode-practice/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/geekyprawins/leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/geekyprawins/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/geekyprawins/leetcode-practice/tree/master/0198-house-robber) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/geekyprawins/leetcode-practice/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/geekyprawins/leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/geekyprawins/leetcode-practice/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/geekyprawins/leetcode-practice/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/geekyprawins/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/geekyprawins/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/geekyprawins/leetcode-practice/tree/master/0165-compare-version-numbers) |
