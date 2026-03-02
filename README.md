@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/geekyprawins/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/geekyprawins/leetcode-practice/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/geekyprawins/leetcode-practice/tree/master/0051-n-queens) |
+| [0120-triangle](https://github.com/geekyprawins/leetcode-practice/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/geekyprawins/leetcode-practice/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/geekyprawins/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/geekyprawins/leetcode-practice/tree/master/0198-house-robber) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/geekyprawins/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/geekyprawins/leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/geekyprawins/leetcode-practice/tree/master/0072-edit-distance) |
+| [0120-triangle](https://github.com/geekyprawins/leetcode-practice/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/geekyprawins/leetcode-practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/geekyprawins/leetcode-practice/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/geekyprawins/leetcode-practice/tree/master/0198-house-robber) |
